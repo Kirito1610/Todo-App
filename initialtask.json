@@ -1,0 +1,19 @@
+{
+  "TaskList": [
+    {
+      "title": "Code Review for Project X",
+      "description": "Review the latest pull requests and provide feedback to ensure code quality and adherence to standards.",
+      "priority": "High"
+    },
+    {
+      "title": "Update Product Documentation",
+      "description": "Revise the user manual and API documentation to reflect recent feature changes and improvements.",
+      "priority": "Medium"
+    },
+    {
+      "title": "Schedule Team Stand-Up Meeting",
+      "description": "Organize a weekly stand-up to discuss project progress, address blockers, and align on goals for the upcoming week.",
+      "priority": "Low"
+    }
+  ]
+}
